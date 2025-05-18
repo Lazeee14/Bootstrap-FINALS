@@ -8,7 +8,6 @@ function myMenuFunction() {
     }
 }
 
-/*-- darkmode---*/
 
 const body = document.querySelector("body"),
     toggleSwitch = document.getElementById("toggle-switch");
@@ -26,5 +25,4 @@ var typingEffect = new Typed(".typedtext", {
     backDelay: 2000,
   });
 
-  
-;
+
